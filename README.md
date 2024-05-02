@@ -1,4 +1,4 @@
-# vue-docker-start
+# Docker Vue Starter project
 
 This project powered by Docker. So here is ths installation instructions
 
@@ -6,7 +6,7 @@ This project powered by Docker. So here is ths installation instructions
 
 ### Clone this project
 ```
-git clone projectUrl
+git clone https://github.com/shantojatri/docker-vue-starter.git
 ```
 
 ### Go to the project directory
